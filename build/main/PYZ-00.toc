@@ -1,0 +1,1944 @@
+('C:\\Users\\Lorenz Bornholdt\\Documents\\Snake\\build\\main\\PYZ-00.pyz',
+ [('os',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('selectors',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('threading',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('signal',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('gettext',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\struct.py',
+   'PYMODULE'),
+  ('textwrap',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('ntpath',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('stat',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.semaphore_tracker',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\semaphore_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('tempfile',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\random.py',
+   'PYMODULE'),
+  ('bisect',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('hashlib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('shutil',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('tokenize',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\token.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('lzma',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('tarfile',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('logging',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('socket',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\socket.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('ctypes',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('getopt',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('email.utils',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.charset',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.errors',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('email',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('uu',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('http.client',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('decimal',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numbers',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\numbers.py',
+   'PYMODULE'),
+  ('base64',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('hmac',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('pickle',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\tty.py',
+   'PYMODULE'),
+  ('platform',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('glob',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\runpy.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\imp.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('score',
+   'C:\\Users\\Lorenz Bornholdt\\Documents\\Snake\\score.py',
+   'PYMODULE'),
+  ('json',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('pygame.locals',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\locals.py',
+   'PYMODULE'),
+  ('numpy',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.distutils.cpuinfo',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\cpuinfo.py',
+   'PYMODULE'),
+  ('numpy.distutils.compat',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\compat.py',
+   'PYMODULE'),
+  ('numpy.distutils',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\fcompiler\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config_compiler',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\config_compiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.command',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.egg_info',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.py26compat',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\py26compat.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.install_scripts',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools.command.easy_install',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\easy_install.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools.package_index',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\package_index.py',
+   'PYMODULE'),
+  ('setuptools.ssl_support',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\ssl_support.py',
+   'PYMODULE'),
+  ('certifi',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.py31compat',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\py31compat.py',
+   'PYMODULE'),
+  ('setuptools.sandbox',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\sandbox.py',
+   'PYMODULE'),
+  ('configparser',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\configparser.py',
+   'PYMODULE'),
+  ('site',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
+   'PYMODULE'),
+  ('distutils.command.build_scripts',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.install',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('distutils.command.install_scripts',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.develop',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\develop.py',
+   'PYMODULE'),
+  ('setuptools.command.develop',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\develop.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_clib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\install_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.bdist_rpm',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('distutils.command.bdist_rpm',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_rpm',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools.command.install',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\install.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_headers',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('distutils.command.install_headers',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_data',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('distutils.command.install_data',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.sdist',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_scripts',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_clib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('distutils.command.build_clib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_ext',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('numpy.distutils.system_info',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\system_info.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py_testing',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\f2py_testing.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_src',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\build_src.py',
+   'PYMODULE'),
+  ('numpy.distutils.conv_template',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\conv_template.py',
+   'PYMODULE'),
+  ('numpy.distutils.from_template',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\from_template.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('fileinput',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\fileinput.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_py',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('distutils.command.build_py',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.autodist',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\autodist.py',
+   'PYMODULE'),
+  ('numpy.distutils.mingw32ccompiler',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\mingw32ccompiler.py',
+   'PYMODULE'),
+  ('distutils.msvccompiler',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.unixccompiler',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('distutils.cygwinccompiler',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('distutils.command.config',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('cgi',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\cgi.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('numpy.distutils.core',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\core.py',
+   'PYMODULE'),
+  ('numpy.distutils.numpy_distribution',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\numpy_distribution.py',
+   'PYMODULE'),
+  ('numpy.distutils.extension',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\extension.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler.environment',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\fcompiler\\environment.py',
+   'PYMODULE'),
+  ('numpy.distutils.exec_command',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\exec_command.py',
+   'PYMODULE'),
+  ('numpy.distutils.misc_util',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\misc_util.py',
+   'PYMODULE'),
+  ('curses',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('numpy.distutils.__config__',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\__config__.py',
+   'PYMODULE'),
+  ('numpy.distutils.npy_pkg_config',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\npy_pkg_config.py',
+   'PYMODULE'),
+  ('numpy.distutils.info',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\info.py',
+   'PYMODULE'),
+  ('numpy.distutils.unixccompiler',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.ccompiler',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils._shell_utils',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\_shell_utils.py',
+   'PYMODULE'),
+  ('pipes',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\pipes.py',
+   'PYMODULE'),
+  ('numpy.distutils.lib2def',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\lib2def.py',
+   'PYMODULE'),
+  ('numpy.distutils.log',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\log.py',
+   'PYMODULE'),
+  ('numpy.distutils.__version__',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\__version__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('scipy',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_lib\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib._testutils',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_lib\\_testutils.py',
+   'PYMODULE'),
+  ('scipy._lib._ccallback',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_lib\\_ccallback.py',
+   'PYMODULE'),
+  ('cffi',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pycparser',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('scipy._lib._version',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_lib\\_version.py',
+   'PYMODULE'),
+  ('scipy._lib.six',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_lib\\six.py',
+   'PYMODULE'),
+  ('scipy.version',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\version.py',
+   'PYMODULE'),
+  ('scipy.__config__',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\__config__.py',
+   'PYMODULE'),
+  ('scipy._distributor_init',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.dual',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\dual.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('pathlib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.linalg.info',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\linalg\\info.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.financial',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\financial.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.info',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\info.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.info',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\info.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('pygame',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\__init__.py',
+   'PYMODULE'),
+  ('pygame.colordict',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\colordict.py',
+   'PYMODULE'),
+  ('pygame.macosx',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\macosx.py',
+   'PYMODULE'),
+  ('pygame.pkgdata',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\pkgdata.py',
+   'PYMODULE'),
+  ('pygame.sndarray',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\sndarray.py',
+   'PYMODULE'),
+  ('pygame._numpysndarray',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\_numpysndarray.py',
+   'PYMODULE'),
+  ('pygame.surfarray',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\surfarray.py',
+   'PYMODULE'),
+  ('pygame._numpysurfarray',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\_numpysurfarray.py',
+   'PYMODULE'),
+  ('pygame.sysfont',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\sysfont.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('pygame.ftfont',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\ftfont.py',
+   'PYMODULE'),
+  ('pygame.threads',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\threads\\__init__.py',
+   'PYMODULE'),
+  ('pygame.sprite',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\sprite.py',
+   'PYMODULE'),
+  ('pygame.cursors',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\cursors.py',
+   'PYMODULE'),
+  ('pygame.compat',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\compat.py',
+   'PYMODULE'),
+  ('pygame.version',
+   'e:\\users\\lorenz '
+   'bornholdt\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pygame\\version.py',
+   'PYMODULE')])
